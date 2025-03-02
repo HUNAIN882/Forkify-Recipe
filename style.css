@@ -30,6 +30,8 @@ body {
     cursor: pointer;
     font-weight: bold;
     transition: background 0.3s ease-in-out;
+    margin-left: 360px;
+    margin-top: -45px;
 }
 #search-button:hover {
     background: linear-gradient(45deg, #ff4500, #ff6347);
