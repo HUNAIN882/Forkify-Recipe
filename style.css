@@ -85,3 +85,8 @@ body {
 .hidden {
     display: none;
 }
+
+h3 {
+    color: #ff6347;
+    cursor: pointer;
+}
